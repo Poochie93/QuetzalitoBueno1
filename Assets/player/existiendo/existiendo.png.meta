@@ -1,0 +1,1113 @@
+fileFormatVersion: 2
+guid: 5de796ff701402643b83cf31586a0f3c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: existiendo_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 462
+        width: 103
+        height: 125
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cce1740bf05dd2479d2604031b1a31f
+      internalID: -1075471145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 462
+        width: 103
+        height: 125
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b659a5fdd94795d48beee13158bd3842
+      internalID: -1370415281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 462
+        width: 103
+        height: 125
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cb1138d3b8b9541afc6f392688e539
+      internalID: -1015249732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_3
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 462
+        width: 103
+        height: 125
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0d52e9893cb704a96aa8e87bcf37a8
+      internalID: -53528731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_4
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 462
+        width: 103
+        height: 125
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0ad7a80e78845479bda50bd03c1a6b
+      internalID: 1199402850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 462
+        width: 103
+        height: 125
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc98cec82121a54da27549b41037832
+      internalID: 187187249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_6
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 462
+        width: 116
+        height: 126
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27edb8c0b42a5dc44a12cc17089ac05d
+      internalID: -1012963691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_7
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 462
+        width: 116
+        height: 126
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d30d7ad277a77479896f016541b196
+      internalID: 515837390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_8
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 462
+        width: 116
+        height: 126
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d06bddffb9acb944a8958607dd5bafc
+      internalID: -1803244340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_9
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 462
+        width: 116
+        height: 126
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcef88dd3490944bb5f5566012bd091
+      internalID: 1317382517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_10
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 462
+        width: 119
+        height: 126
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353c1442e9386524d99c80e38443ac97
+      internalID: 639691296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_11
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 462
+        width: 116
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f071e42e4a8864a92c53f52b8206e7
+      internalID: -723954126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 312
+        width: 116
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7c33134446c3b41afda9e39d337265
+      internalID: 1298498057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 312
+        width: 116
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cda2096ea5e00048ab33af518988812
+      internalID: -926391356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 312
+        width: 116
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018ec49e95e361b4ba58ee19b1211f5c
+      internalID: -1474627235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_15
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 312
+        width: 116
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0274b69290968e24e9b55f7a0deeffc8
+      internalID: 203165023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_16
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 312
+        width: 116
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc77d70e988477b42914af497abca5f1
+      internalID: -764165696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_17
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 312
+        width: 116
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a79bf80223c984f92bb9f01540df59
+      internalID: 858586366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_18
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 312
+        width: 116
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8db625cdff0cf4a952aa013db113be
+      internalID: -361754679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_19
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 312
+        width: 116
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbaeb3104d0476478903da52c21edaf
+      internalID: 914195717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_20
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 312
+        width: 116
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bc303956d7e4d42b802424b7a00004
+      internalID: 519573938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_21
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 312
+        width: 116
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c299cee4867f64ba2a64c46b472e96
+      internalID: 503157601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_22
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 312
+        width: 116
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87062bf184202b44b8b22db23f444586
+      internalID: 632833964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_23
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 312
+        width: 116
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf12a35e6147e24fbfbb259cebdc532
+      internalID: -660664091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_24
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 163
+        width: 116
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af93834a1cb372499aedcccd7f5048b
+      internalID: 714910232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 163
+        width: 116
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c897c72e9c4f7dd41883e522b55b40e8
+      internalID: 589140939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 163
+        width: 116
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f890fa9049cd57419e616f5f4572e86
+      internalID: -399048572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_27
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 163
+        width: 116
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695e486862726304290704bc2ebfe362
+      internalID: -1770710112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_28
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 163
+        width: 119
+        height: 126
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab7969af72c49e41b3e359489db8e7f
+      internalID: 1064009450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 163
+        width: 116
+        height: 126
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6076755bf6aa92c4cb6ce13420186242
+      internalID: -1038245153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_30
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 163
+        width: 116
+        height: 126
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb707b3629ab87b4a9c925cf9da1b7bb
+      internalID: -2028844107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_31
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 163
+        width: 116
+        height: 126
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91fccf27b6d9da45b16ae2a2be46a7f
+      internalID: -1586916757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_32
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 163
+        width: 116
+        height: 125
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c6ec50d09d9a54a9ef3f9887658640
+      internalID: 86594964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_33
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 163
+        width: 116
+        height: 125
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033c05f4097ecb543b9daa468da54e91
+      internalID: 545029615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_34
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 163
+        width: 116
+        height: 125
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1eb5f06234fd924b91a560c6dc8036c
+      internalID: -512242705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_35
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 163
+        width: 116
+        height: 125
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca762e375a2d14d48bc118e754da928b
+      internalID: -2121529444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 13
+        width: 116
+        height: 125
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221b80cef254ed64e8b96a0179e6c128
+      internalID: -1945835516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 13
+        width: 116
+        height: 125
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d041c5026dc8a7c4d91f08539f1fdf6d
+      internalID: -303913233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_38
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 13
+        width: 116
+        height: 125
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d151b43358f6541920cb7fb598d53e
+      internalID: -1666431773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_39
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 13
+        width: 116
+        height: 125
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c723342ef6ca28e42b1aa4e6a458a227
+      internalID: 438827451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_40
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 13
+        width: 116
+        height: 125
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b93fdfa2cd577b4a92c96ce85e607a3
+      internalID: -1358730756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_41
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 13
+        width: 116
+        height: 125
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d92d57ed0aaf74f80efc8b0411e616
+      internalID: 1222704729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_42
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 13
+        width: 116
+        height: 125
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4017445497774418f87d241459993d
+      internalID: 1040586892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_43
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 13
+        width: 116
+        height: 125
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d662ad9651d06540a9e571432f071b2
+      internalID: 465439115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: existiendo_44
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 13
+        width: 116
+        height: 125
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907c42cbd63cf9b40b388c58db0f84b0
+      internalID: 50848213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      existiendo_0: -1075471145
+      existiendo_1: -1370415281
+      existiendo_10: 639691296
+      existiendo_11: -723954126
+      existiendo_12: 1298498057
+      existiendo_13: -926391356
+      existiendo_14: -1474627235
+      existiendo_15: 203165023
+      existiendo_16: -764165696
+      existiendo_17: 858586366
+      existiendo_18: -361754679
+      existiendo_19: 914195717
+      existiendo_2: -1015249732
+      existiendo_20: 519573938
+      existiendo_21: 503157601
+      existiendo_22: 632833964
+      existiendo_23: -660664091
+      existiendo_24: 714910232
+      existiendo_25: 589140939
+      existiendo_26: -399048572
+      existiendo_27: -1770710112
+      existiendo_28: 1064009450
+      existiendo_29: -1038245153
+      existiendo_3: -53528731
+      existiendo_30: -2028844107
+      existiendo_31: -1586916757
+      existiendo_32: 86594964
+      existiendo_33: 545029615
+      existiendo_34: -512242705
+      existiendo_35: -2121529444
+      existiendo_36: -1945835516
+      existiendo_37: -303913233
+      existiendo_38: -1666431773
+      existiendo_39: 438827451
+      existiendo_4: 1199402850
+      existiendo_40: -1358730756
+      existiendo_41: 1222704729
+      existiendo_42: 1040586892
+      existiendo_43: 465439115
+      existiendo_44: 50848213
+      existiendo_5: 187187249
+      existiendo_6: -1012963691
+      existiendo_7: 515837390
+      existiendo_8: -1803244340
+      existiendo_9: 1317382517
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
